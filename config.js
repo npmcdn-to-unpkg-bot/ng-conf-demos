@@ -1,7 +1,7 @@
 System.config({
   map: {
     '@angular': '/node_modules/@angular',
-    'rxjs': 'https://npmcdn.com/rxjs@5.0.0-beta.6'
+    'rxjs': 'https://unpkg.com/rxjs@5.0.0-beta.6'
   },
   packages: {
     app: {
